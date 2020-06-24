@@ -3,6 +3,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Arvo&display=swap');
 header {
     font-family: 'Krona One', sans-serif;
+    font-size: 30.9pt;
+    color: rgb(231, 236, 231);
+    padding: 210px;
+    background-image: url("Imagens\ do\ Projeto/Fundo003.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    border-radius: 6px;
 }
 section {
     font-family: 'Arvo', serif;
