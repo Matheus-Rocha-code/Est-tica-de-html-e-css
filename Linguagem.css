@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Arvo&display=swap');
 header {
     font-family: 'Krona One', sans-serif;
-    font-size: 30.9pt;
+    font-size: 25pt;
     color: rgb(231, 236, 231);
     padding: 210px;
     background-image: url("Imagens\ do\ Projeto/Fundo003.jpg");
@@ -15,9 +15,37 @@ header {
     left: 0px;
     right: 0px;
     border-radius: 6px;
+    height: 210px;
+}
+p.TextoT {
+    color: rgb(231, 236, 231);
+    position: absolute;
+    top: 205px;
+    left: 115px;
+}
+ul.lista {
+    display: inline-block;
+    color: rgb(231, 236, 231);
+    list-style: none;
+    position: absolute;
+    top: 384px;
+    left: 44px;
+}
+li {
+    display: inline-block;
+    padding: 18px;
+    margin: 10px;
+    background-color: rgba(8, 10, 114, 0.788);
+    border-radius: 10px;
+}
+h1 {
+    position: absolute;
+    top: 50px;
+    left: 75px;
 }
 section {
     font-family: 'Arvo', serif;
+    font-size: 20.8pt;
 }
 footer {
     font-family: 'Arvo', serif;
