@@ -45,7 +45,26 @@ h1 {
 }
 section {
     font-family: 'Arvo', serif;
-    font-size: 20.8pt;
+    font-size: 20.5pt;
+}
+div#Dev {
+    font-size: 25pt;
+    position: absolute;
+    top: 661px;
+    left: 95px;
+}
+p.T {
+    text-indent: 50px;
+}
+h2 {
+    font-size: 45pt;
+    color: red;
+}
+h2.U {
+    text-indent: 10px;
+}
+iframe {
+    border-radius: 5px;
 }
 footer {
     font-family: 'Arvo', serif;
