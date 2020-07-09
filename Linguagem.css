@@ -91,6 +91,15 @@ h2.Ap {
     font-family: 'Kaushan Script', cursive;
     color: rgb(179, 9, 9);
 }
-footer {
-    font-family: 'Arvo', serif;
+span {
+    font-family: 'Kaushan Script', cursive;
+}
+a {
+    color: green;
+    text-decoration: none;
+}
+a:hover {
+    color: rgb(14, 202, 14);
+    transition: 0.16s;
+    text-decoration: underline;
 }
